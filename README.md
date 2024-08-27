@@ -27,7 +27,7 @@ El proyecto consta de los siguientes archivos:
 
 1. Clonar el repositorio: 
    ```bash
-   git clone [https://github.com/dangerouskeen/Challenge-Encriptador]
+   git clone https://github.com/dangerouskeen/Challenge-Encriptador
    ```
 
 2. Abrir el archivo `index.html`: 
